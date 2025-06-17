@@ -55,16 +55,6 @@ public String toString() {
 	return "Employee [id=" + id + ", name=" + name + ", department=" + department + ", salary=" + salary + "]";
 }
 
-public Object getDateOfJoining() {
-	// TODO Auto-generated method stub
-	return null;
-}
-
-public void setDateOfJoining(LocalDate now) {
-	// TODO Auto-generated method stub
-	
-}
-
 
 }
 
